@@ -8,6 +8,10 @@ public class Liste {
 
     // kommentar
 
+    public static void metode(){
+        //tom metode
+    }
+
 
 
 
