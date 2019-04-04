@@ -10,4 +10,6 @@ public class Node {
     public void setData(String data) {
         this.data = data;
     }
+
+    String b ="";
 }
