@@ -10,6 +10,7 @@ public class Liste {
 
     public static void metode(){
         //tom metode
+        System.out.println("tom metode");
     }
 
 
