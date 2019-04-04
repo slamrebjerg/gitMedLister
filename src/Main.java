@@ -3,7 +3,7 @@ public class Main {
     public static  String hej = "hej";
     public static String navn = "Ulrik";
 
-    public static void udskriv(){
+    public static void udskriv1(){
         System.out.println(hej + navn);
     }
 
@@ -12,4 +12,5 @@ public class Main {
     }
 
     String q = "";
+    String w = "";
 }
